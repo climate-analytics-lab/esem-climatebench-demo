@@ -4,3 +4,4 @@ wget https://zenodo.org/record/7064308/files/test.tar.gz
 tar -xzf test.tar.gz -C ClimateBench/
 wget https://zenodo.org/record/7064308/files/train_val.tar.gz
 tar -xzf train_val.tar.gz -C ClimateBench/
+rm test.tar.gz train_val.tar.gz
