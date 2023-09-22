@@ -1,0 +1,7 @@
+ipympl 
+cartopy
+pandas
+xarray
+netcdf4 
+dask 
+esem[gpflow]
